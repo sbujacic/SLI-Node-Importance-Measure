@@ -1,6 +1,6 @@
 def sli_importance(G, **kwargs):
     '''
-    The algorithm takes graph G and get the importance of the nodes as a list of floating values
+    The algorithm takes graph G and returns the importance of the nodes as a list of floating values
     kwargs: 
         igraph (default False), if True transforms G from igraph to Networkx
         normalize (default True), if False returns non-normalized values from a list of SLI importance values
