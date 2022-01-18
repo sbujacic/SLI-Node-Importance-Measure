@@ -48,8 +48,8 @@ def sli_importance(G, **kwargs):
         sum = 0
         for neigh in g.neighbors(node):           
             edge_weight= g.get_edge_data(node,neigh)['weight']
-            nodeWeight_node = G.vs[node]["weighted_degree"]
-            nodeWeight_neigh =  G.vs[neigh]["weighted_degree"]
+            nodeWeight_node = g.nodes[node]["weighted_degree"]
+            nodeWeight_neigh =  g.nodes[neigh]["weighted_degree"]
             p = dict1[(node, neigh)] 
             u = (nodeWeight_node+ nodeWeight_neigh - 2* edge_weight)
             lambd = p+1
