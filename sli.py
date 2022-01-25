@@ -1,3 +1,6 @@
+#If you use the introduced Semi-Local Integration Measure, we kindly ask you to cite our article Semi-Local Integration Measure of Node Importance, 
+#MDPI Mathematics Special Issue New Trends in Graph and Complexity Based Data Analysis and Processing.
+
 def sli_importance(G, **kwargs):
     '''
     The algorithm takes graph G and returns the importance of the nodes as a list of floating values
