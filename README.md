@@ -1,6 +1,10 @@
 # SLI-Node-Importance-Measure
 This is the Python implementation of the Semi-Local Intregation (SLI) measure, a node centrality measure for undirected and weighted graphs that takes into account the coherence of the locally connected subnetwork and evaluates the integration of nodes within their neighbourhood. 
 
+Abstract: https://www.mdpi.com/2227-7390/10/3/405
+
+PDF Version: https://www.mdpi.com/2227-7390/10/3/405/pdf
+
 # Example of usage
 ## Construct a graph G
 ```import networkx as nx
