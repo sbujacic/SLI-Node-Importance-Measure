@@ -7,7 +7,8 @@ PDF Version: https://www.mdpi.com/2227-7390/10/3/405/pdf
 
 # Example of usage
 ## Construct a graph G
-```import networkx as nx
+```
+import networkx as nx
 from matplotlib import pyplot as plt
 from sli import sli_importance
 
