@@ -10,7 +10,6 @@ PDF Version: https://www.mdpi.com/2227-7390/10/3/405/pdf
 ```
 import networkx as nx
 from matplotlib import pyplot as plt
-from sli import sli_importance
 
 # construct an example graph G
 G = nx.Graph()
@@ -33,6 +32,8 @@ nx.set_node_attributes(G, weighted_degree, "weighted_degree")
 ```
 ## Calculate sli_importance for nodes in the graph G
 ```
+# import sli_importance method from sli.py
+from sli import sli_importance
 sli_importance(G, igraph=False, normalize=True).tolist()
 ```
 ## SLI Example output normalized
