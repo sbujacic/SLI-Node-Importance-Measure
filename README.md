@@ -44,7 +44,9 @@ sli_importance(G, igraph=False, normalize=True).tolist()
 ```
 ![Test Image 5](https://github.com/sbujacic/SLI-Node-Importance-Measure/files/7990104/pic_graphSLI.pdf)
 
-# Citation
+```
+## Citation
+```
 If you use the introduced Semi-Local Integration Measure, we kindly ask you to cite our article "Semi-Local Integration Measure of Node Importance", published in Mathematics as part of the Special Issue New Trends in Graph and Complexity Based Data Analysis and Processing:
 
 Ban Kirigin, Tajana, Sanda Bujačić Babić, and Benedikt Perak. 2022. "Semi-Local Integration Measure of Node Importance" Mathematics 10, no. 3: 405. https://doi.org/10.3390/math10030405
