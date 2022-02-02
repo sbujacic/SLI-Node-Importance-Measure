@@ -42,7 +42,7 @@ sli_importance(G, igraph=False, normalize=True).tolist()
 ```
 ## Graph G
 ```
-(https://github.com/sbujacic/SLI-Node-Importance-Measure/blob/main/pic_graphSLI.pdf)
+[Test image](https://github.com/sbujacic/SLI-Node-Importance-Measure/blob/main/pic_graphSLI.pdf)
 
 ```
 ## Citation
