@@ -42,7 +42,7 @@ sli_importance(G, igraph=False, normalize=True).tolist()
 ```
 ## Graph G
 ```
-/blob/main/pic_graphSLI.pdf
+../blob/main/pic_graphSLI.pdf
 
 ```
 ## Citation
