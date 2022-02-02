@@ -41,11 +41,8 @@ sli_importance(G, igraph=False, normalize=True).tolist()
 [40.224704875135764, 16.22542192814501, 13.269411294301452, 6.663528746817569, 6.9607760164571, 9.614365991921142, 0.9691339164377623, 0.5457920575714295, 1.2384765902759793, 0.1657253650287946, 0.5686404349795474, 0.1388144950602838, 0.22363296026280205, 1.6706620823076415, 0.11021241324706493, 0.21021712918000718, 0.06666126151529841, 0.14964230679754376, 0.06726142386351164, 0.06668271540616122, 0.1586556899362313, 0.0880978328308008, 0.3888086725541725, 0.14935394297783425, 0.06531985698910099]
 ```
 ## Graph G
-```
-<img src = "https://github.com/sbujacic/SLI-Node-Importance-Measure/blob/main/pic_graphSLI.pdf"></div>
 ![graphSLI](pic_graphSLI.png)
 
-```
 ## Citation
 ```
 If you use the introduced Semi-Local Integration Measure, we kindly ask you to cite our article "Semi-Local Integration Measure of Node Importance", published in Mathematics as part of the Special Issue New Trends in Graph and Complexity Based Data Analysis and Processing:
