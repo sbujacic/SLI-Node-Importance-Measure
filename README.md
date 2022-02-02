@@ -50,3 +50,5 @@ Abstract: https://www.mdpi.com/2227-7390/10/3/405
 
 PDF Version: https://www.mdpi.com/2227-7390/10/3/405/pdf
 
+You can find the uploaded BibTeX file with all necessary information in our main branch.
+
